@@ -11,9 +11,9 @@ A Flappy Bird clone made with Unity Engine to educational purposes.
 ## Screenshots
 
 <p align="center"> 
-    <img src="./res/ss1.jpg" width="30%" height="30%">
+    <img src="./res/ss1.jpg" width="23%" height="23%">
     <img src="./res/demo.gif" width="30%" height="30%">
-    <img src="./res/ss2.jpg" width="30%" height="30%">
+    <img src="./res/ss2.jpg" width="23%" height="23%">
 </p>
 
 
