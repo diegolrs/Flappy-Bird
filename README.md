@@ -2,7 +2,7 @@
 # Flappy Bird Clone
 A Flappy Bird clone made with Unity Engine to educational purposes.
 
-
+<br>
 <p align="center"> 
     <img src="./res/logo.png" width="20%" height="20%">
 </p>
