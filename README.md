@@ -24,6 +24,11 @@ Unity version: 2021.1.27f
 Once you have cloned the repository, you should install the version of Unity that is listed above in the prerequisites section.
 Make sure you include Android support or IOS support in your installation.
 
+## Third-Party Packages
+| Package Name          | Asset Store URL                                                            |
+| --------------------- | -------------------------------------------------------------------------- |
+| DoTween               | <https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676> |
+
 
 ## Authors
 
