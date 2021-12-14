@@ -44,7 +44,7 @@ TagManager:
   - name: Background
     uniqueID: 155466347
     locked: 0
-  - name: Pipes
+  - name: Midground
     uniqueID: 3043596273
     locked: 0
   - name: Player
