@@ -133,7 +133,6 @@ GameObject:
   - component: {fileID: 7396322556248968658}
   - component: {fileID: 7396322556248968656}
   - component: {fileID: 7396322556248968669}
-  - component: {fileID: 7396322556248968657}
   m_Layer: 0
   m_Name: DeathBounds
   m_TagString: Untagged
@@ -219,20 +218,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10edae15739a886489cee0f6b852d5fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &7396322556248968657
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7396322556248968668}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80033dcc41e251d428582d6a01e46d2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _xOffset: 0
-  _objectToFollow: {fileID: 0}
 --- !u!1 &7396322556353232925
 GameObject:
   m_ObjectHideFlags: 0
@@ -243,7 +228,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7396322556353232915}
   - component: {fileID: 7396322556353232914}
-  - component: {fileID: 7396322556353232912}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -317,17 +301,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7396322556353232912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7396322556353232925}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80033dcc41e251d428582d6a01e46d2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _xOffset: 0
-  _objectToFollow: {fileID: 0}
